@@ -1,5 +1,4 @@
- # Here is another update by <aycman>
-# Here is a new update by <aycman>
+ # Here is a new update by <aycman>
 
 # Shipping Cost Calculator
 
